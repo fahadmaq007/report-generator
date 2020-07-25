@@ -1,0 +1,25 @@
+{
+  "name": "Jerry Shaw",
+  "address1": "1st Main Street",
+  "address2": "Kalyan Nagar",
+  "city": "Bangalore",
+  "postcode": "560043",
+  "country": "India",
+  "photos": [
+    {
+      "bytes": "",
+      "latitude": 40.185091,
+      "longitude": -73.968285
+    },
+    {
+      "bytes": "",
+      "latitude": 40.285091,
+      "longitude": -73.968285
+    },
+    {
+      "bytes": "",
+      "latitude": 40.785091,
+      "longitude": -73.968285
+    }
+  ]
+}
